@@ -1,3 +1,5 @@
+### Hi there 👋
+# About me
 - 👋 Hi, I’m @Katzendreher
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... HTML, CSS
