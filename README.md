@@ -2,7 +2,7 @@
 # About me
 - 👋 Hi, I’m @Katzendreher
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... HTML, CSS
+- 🌱 I’m currently learning ... MIT App Inventor
 - 💞️ I’m looking to collaborate on ... nothing, sorry :)
 - 📫 How to reach me ... not :)
 - 😄 Pronouns: ... coder
